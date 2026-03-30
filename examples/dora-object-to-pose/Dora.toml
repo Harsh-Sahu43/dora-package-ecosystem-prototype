@@ -1,0 +1,9 @@
+[package]
+name = "dora-object-to-pose"
+version = "0.1.0"
+
+[node]
+language = "rust"
+entrypoint = "src/main.rs"
+
+[dependencies]

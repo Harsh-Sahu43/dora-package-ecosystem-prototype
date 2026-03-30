@@ -1,0 +1,10 @@
+[package]
+name = "dora-cli"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+package-manager = { path = "../package-manager" }
+registry-client = { path = "../registry-client" }
+clap = { version = "4", features = ["derive"] }
+anyhow = "1"

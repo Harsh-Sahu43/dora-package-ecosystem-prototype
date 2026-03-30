@@ -1,0 +1,9 @@
+[workspace]
+members = [
+    "crates/dora-cli",
+    "crates/package-manager",
+    "crates/registry-client",
+    "crates/registry-server"
+]
+
+resolver = "2"

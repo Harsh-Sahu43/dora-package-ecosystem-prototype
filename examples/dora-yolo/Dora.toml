@@ -1,0 +1,11 @@
+[package]
+name = "dora-yolo"
+version = "0.1.0"
+
+[node]
+language = "python"
+entrypoint = "dora_yolo/main.py"
+
+
+[dependencies]
+dora-camera = "^0.1.0"

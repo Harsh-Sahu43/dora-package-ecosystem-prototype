@@ -1,0 +1,9 @@
+[package]
+name = "dora-reachy1"
+version = "0.1.0"
+
+[node]
+language = "python"
+entrypoint = "main.py"
+
+[dependencies]
