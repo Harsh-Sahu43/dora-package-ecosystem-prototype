@@ -107,7 +107,7 @@ cargo run -p registry-server
 ### Install a package from the sample registry
 
 ```powershell
-cargo run -p dora-cli -- install dora-yolo
+cargo run -p dora-cli -- install dora-rerun
 ```
 
 ### Publish a package to the local registry server
